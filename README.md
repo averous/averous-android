@@ -9,7 +9,7 @@ averous Android SDK enables mobile app performance monitoring and user behavior 
 ```
 dependencies {
   ...
-  implementation 'com.averous:averous-android:1.0.0'
+  implementation 'com.averous:averous-android:1.0.2'
   ...
 }
 ```
